@@ -1,0 +1,17 @@
+[
+    {
+    "id":1,
+    "name":"saif",
+    "email":"saiful@infobizsoft.com"
+    },
+    {
+    "id":2,
+    "name":"Rich",
+    "email":"rich@infobizsoft.com"
+     },
+     {
+    "id":3,
+    "name":"maik",
+    "email":"maik@infobizsoft.com"
+     }
+]
